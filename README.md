@@ -1,73 +1,113 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Umang Dholu</h1>
 
-👋 **Hi, I'm Umang Dholu!** I am a passionate **Data Analyst** with hands-on experience building interactive dashboards, optimizing complex SQL databases, and using Python to transform raw data into actionable business intelligence. I love bridging the gap between deep technical analysis and clear, non-technical client communication.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Developer+(PL-300+Certified);SQL+%26+Python+for+Data+Insights;Data+Quality+%26+Governance+Specialist;Turning+Raw+Data+Into+Decisions" alt="Typing SVG" /></a>
+</p>
 
-*   🔭 **I’m currently working on:** Building robust data pipelines and transforming multi-source datasets into real-time business intelligence solutions.
-*   🌱 **I’m currently learning:** Advanced cloud data engineering tools and automated ETL pipelines using Azure.
-*   🤝 **I want to work with others on:** Data analytics projects, predictive modeling, dashboard automation, and end-to-end data pipelines.
-*   💬 **Ask me about:** `SQL Joins`, `Power BI / Looker Studio`, `Python (Pandas/NumPy)`, and `Data Integrity & Validation`.
-*   ⚡ **Fun fact:** In addition to dissecting intricate business data issues into clear insights, I love hitting the open road for motorcycle touring journeys!
-
----
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:umangdholu09@outlook.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=d-umang09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/d-umang09"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:d-umang09@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💻 Tech Stack:
+### 👨‍💻 About Me
 
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3600?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🐍 Programming & Data Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- 🔭 Data Analyst with hands-on experience in **KPI reporting, dashboarding, and data quality & governance** for enterprise/financial-services clients — currently open to new opportunities.
+- 📊 I turn messy, multi-source data into **clean, reliable, decision-ready insights** using SQL, Python, and BI tools.
+- 🧹 I care deeply about **data quality, validation, lineage, and governance** — not just pretty dashboards.
+- ⚙️ I automate recurring reporting workflows with **Python (Pandas/NumPy)**, cutting manual effort and turnaround time.
+- ☁️ I've built end-to-end pipelines on **Azure (ADLS Gen2, Data Factory, Databricks)**.
+- 🌱 Currently sharpening my skills in advanced SQL, data modeling, and AI-assisted analytics workflows.
+- 💬 Ask me about: Power BI, SQL optimization, data validation frameworks, KPI reporting, or dashboard adoption/training.
+- 📄 Certified: **Microsoft PL-300 (Power BI Data Analyst Associate)** & **Google Data Analytics Professional Certificate**
+- 📍 Based in Pune, India
 
 ---
 
-## 🚀 Featured Projects:
+### 🌐 Socials
 
-### 🛒 eCommerce Data Analysis & Intelligence Dashboard
-*   Collected, cleaned, and validated multi-source structured retail datasets.
-*   Built **Power BI** and **Google Data Studio** dashboards tracking core KPIs like conversion rate, user engagement, and revenue trends.
-
-### 📈 Retail Customer Data Analysis (500K+ Records)
-*   Processed large-scale customer records using **MySQL** and Excel to clear out errors and validate quality.
-*   Performed precise customer segmentation and trend transformations for optimized business decisions.
-
-### 🌐 Azure Data Engineering Pipeline (Tokyo Olympics)
-*   Engineered an end-to-end data migration pipeline using **Azure Data Lake Storage Gen2**, **Databricks**, and **Data Factory**.
-*   Documented source-to-target lineage mapping to ensure complete fitness for downstream reporting.
+<p align="left">
+<a href="https://www.linkedin.com/in/d-umang09" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:d-umang09@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🏅 Certifications:
-*   **Microsoft Power BI Data Analyst Associate (PL-300)**
-*   **Google Data Analytics Professional Certificate**
-*   **Tata Data Visualisation: Empowering Business Job Simulation**
-*   **Deloitte Australia Data Analytics Job Simulation**
+### 🧰 Tech Stack
+
+**Languages & Querying**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**BI & Visualization**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</p>
+
+**Data Processing & Libraries**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**Cloud & Data Engineering**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-![Umang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=d-umang09&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-umang09&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-umang09&theme=tokyonight" />
+</p>
 
 ---
 
-## 💡 Random Dev Quote:
+### 📌 Featured Projects
 
-> "Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful." — *Chip Heath*
+| Project | Description | Tools |
+|---|---|---|
+| **eCommerce Data Analysis & Intelligence Dashboard** | Collected & cleaned multi-source datasets, built Power BI/Looker Studio dashboards tracking conversion rate, engagement & revenue KPIs | `Power BI` `SQL` `Python` |
+| **Retail Customer Data Analysis (500K+ Records)** | Processed and validated 500K+ records, performed customer segmentation and trend analysis for retail decision-making | `SQL` `Excel` |
+| **Azure Data Engineering Pipeline (Tokyo Olympics)** | End-to-end pipeline for ingestion, transformation & reporting using ADLS Gen2, Databricks & ADF, with full lineage documentation | `Azure` `Databricks` `ADF` |
+
+---
+
+### 💡 Quote
+
+> "In God we trust. All others must bring data."
+> — W. Edwards Deming
+
+<p align="center"><i>30 contributions in the last year — building dashboards, cleaning data, one commit at a time. 📈</i></p>
